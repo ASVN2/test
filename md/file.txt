@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 main main main mian mian mina .
+=======
+fixing fixing fixing fixing .
+>>>>>>> fixing
